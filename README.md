@@ -1,0 +1,1 @@
+[Lua](https://www.lua.org/) is an open source language built on top of C programming language. Lua has its value across multiple platforms ranging from large server systems to small mobile applications.
